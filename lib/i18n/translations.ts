@@ -112,7 +112,6 @@ export const translations = {
     followUs: 'Follow Us',
     stayUpdated: 'Stay updated with park news and special offers',
     copyright: 'Parquetur. All rights reserved. Protecting Brazil\'s natural heritage.',
-    partnerships: 'Partnerships',
     businessOpportunities: 'Business Opportunities',
 
     // Partnerships Page
@@ -312,7 +311,6 @@ export const translations = {
     followUs: 'Siga-nos',
     stayUpdated: 'Fique atualizado com notícias e ofertas especiais dos parques',
     copyright: 'Parquetur. Todos os direitos reservados. Protegendo o patrimônio natural do Brasil.',
-    partnerships: 'Parcerias',
     businessOpportunities: 'Oportunidades de Negócios',
 
     // Partnerships Page
@@ -512,7 +510,6 @@ export const translations = {
     followUs: 'Síguenos',
     stayUpdated: 'Mantente actualizado con noticias y ofertas especiales de los parques',
     copyright: 'Parquetur. Todos los derechos reservados. Protegiendo el patrimonio natural de Brasil.',
-    partnerships: 'Asociaciones',
     businessOpportunities: 'Oportunidades de Negocio',
 
     // Partnerships Page
