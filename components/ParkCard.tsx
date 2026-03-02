@@ -52,7 +52,7 @@ export function ParkCard({ park }: ParkCardProps) {
 
           {/* Description */}
           <p className="mb-4 line-clamp-3 text-sm text-muted-foreground">
-            {t(park.description)}
+            {t(park.description as any)}
           </p>
 
           {/* Price */}
